@@ -1,6 +1,6 @@
 class Flight:
 
-	def _init_(self, origin, destination, duration):
+	def __init__(self, origin, destination, duration):
 		self.origin = origin
 		self.destination = destination
 		self.duration = duration
@@ -8,7 +8,7 @@ class Flight:
 def main():
 
 	# Create flight.
-	f = Flight(origin="New York", destination="Paris", duration=540):
+	f = Flight(origin="New York", destination="Paris", duration=540)
 
 	# Change the value of a variable.
 	f.duration +=10
@@ -22,4 +22,3 @@ def main():
 if __name__ == "__main__":
 	main()
 
-	
