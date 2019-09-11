@@ -5,7 +5,6 @@ Ejemplos realizados o presentados por el Instructor [Brian Yu](https://brianyu.m
 en el canal de Youtube de [CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T382hIW-IsOVuXP1uMzEvmcE5)
 
 
-## Instalar
-- Python 3.6 (Ejemplos pensados en está versión)
-- [Flask Session](https://pythonhosted.org/Flask-Session/)
-- [Jinja](https://jinja.palletsprojects.com/) por si Python NO lo trae.
+## Semana 3 - Instalar
+- [Psycopg - PostgreSQL](http://initd.org/psycopg/)
+- [SQLAlchemy](https://docs.sqlalchemy.org/) 
